@@ -1,0 +1,7 @@
+- name: Adobe Photoshop
+  percentage: 95
+  color: info
+
+- name: Sony MAGIX Vegas
+  percentage: 90
+  color: success
